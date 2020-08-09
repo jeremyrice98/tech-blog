@@ -34,7 +34,7 @@ const sess = {
       db: sequelize
   })
 };
-app.use(session(sess));
+app.use(session({ secret: 'anything', resave: true, saveUninitialized: true }));
 
 // ROUTES
 app.use(routes);
