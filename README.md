@@ -57,10 +57,10 @@ Go to the application link.
 2. You will need to create and account prior to having the ability to post.  
 
 3. Once logged in, you will see a list of previous posts that you can review and contribute to. 
-![](images/Home page.png)
+![](images/Homepage.png)
 
 4. After your account has been created, click on "create a post" to begin your post.
-![](images/Create content.png)
+![](images/Create_content.png)
 
 5. If you click on "Dashboard" in the upper right hand corner, this will take you to your own homepage where you can create additional posts and see any other posts you've created.
 ![](images/Dashboard.png)
