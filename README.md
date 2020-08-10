@@ -52,15 +52,15 @@ Go to the application link.
 ##  **FUNCTIONALITY**
 
 1. In a browser, navigate to the [application](https://fast-refuge-72056.herokuapp.com/)
-![](Images/Login.png)
+![](images/Login.png)
 
 2. You will need to create and account prior to having the ability to post.  
 
 3. Once logged in, you will see a list of previous posts that you can review and contribute to. 
-![](Images/Home page.png)
+![](images/Home page.png)
 
 4. After your account has been created, click on "create a post" to begin your post.
-![](Images/Create content.png)
+![](images/Create content.png)
 
 5. If you click on "Dashboard" in the upper right hand corner, this will take you to your own homepage where you can create additional posts and see any other posts you've created.
 ![](images/Dashboard.png)
